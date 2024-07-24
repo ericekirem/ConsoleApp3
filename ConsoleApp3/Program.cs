@@ -14,7 +14,7 @@ string isim = "irem"; //assignment
 Console.WriteLine("Lütfen adınızı yazınız");
 isim = Console.ReadLine(); //assignment
 
-Console.WriteLine("Değişken içerisindeki veri ---->" + isim); // read
+Console.WriteLine("Değişken içerisindeki veri ----->" + isim); // read
 
 Console.WriteLine("-----------");
 
